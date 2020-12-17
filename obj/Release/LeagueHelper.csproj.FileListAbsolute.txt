@@ -1,6 +1,0 @@
-D:\Programs\LeagueHelper\obj\Release\LeagueHelper.csprojAssemblyReference.cache
-D:\Programs\LeagueHelper\obj\Release\ExSharpBase.Menu.BasePlate.resources
-D:\Programs\LeagueHelper\obj\Release\LeagueHelper.Menu.GraphicMenu.resources
-D:\Programs\LeagueHelper\obj\Release\ExSharpBase.Overlay.Base.resources
-D:\Programs\LeagueHelper\obj\Release\LeagueHelper.csproj.GenerateResource.cache
-D:\Programs\LeagueHelper\obj\Release\LeagueHelper.csproj.CoreCompileInputs.cache
